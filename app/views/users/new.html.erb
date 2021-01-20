@@ -1,3 +1,4 @@
+<!-- >
 <br>
 <br>
 
@@ -12,3 +13,30 @@
   <input type="submit" value="Submit">
 </form>
 
+<!-->
+<%= form_with model: @user, url: users_path do |form|%>
+<br>
+<br>
+
+<div>
+  <%= form.label :username %>
+  <%= form.text_field :username %>
+</div>
+<br>
+
+<div>
+  <%= form.label :email %>
+  <%= form.email_field :email %>
+</div>
+<br>
+
+<div>
+  <%= form.label :password %>
+  <%= form.password_field :password %>
+</div>
+<br>
+  <div>
+    <%= form.submit %>
+  </div>
+
+<% end %>
