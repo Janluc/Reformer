@@ -1,24 +1,42 @@
-# README
+# Re-Former
+> This is a Rails Form made with Ror using the MVC structure.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Built With
 
-Things you may want to cover:
+- Ruby
+- Ror
 
-* Ruby version
+## GitHub Repo
 
-* System dependencies
+- https://github.com/Janluc/Reformer
 
-* Configuration
+## Instructions
 
-* Database creation
+- Open your Terminal.
+- Clone the repo
+- Go to the project's root
+- Start server (rails server).
+- Fill the Users form.
 
-* Database initialization
+## Authors
 
-* How to run the test suite
+👤 **Andres Felipe Castañeda Ramos**
 
-* Services (job queues, cache servers, search engines, etc.)
+- Github: [@afcastaneda223](https://github.com/afcastaneda223)
+- Twitter: [@afcastaneda](https://twitter.com/afcastaneda)
+- Linkedin: [Andres Felipe Castañeda](www.linkedin.com/in/andres-castaneda223)
 
-* Deployment instructions
+👤 **Janluc Saneaux**
 
-* ...
+- Github: [@Janluc](https://github.com/Janluc)   
+- Twitter: [@Janluc123](https://twitter.com/Janluc123)
+- Linkedin: [linkedin](https://www.linkedin.com/in/janluc-saneaux-91707a1b4/)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse
+- Everyone else
