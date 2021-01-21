@@ -1,5 +1,4 @@
-# Micro_Reddit
-
+# Re-Former
 > This is a Rails Form made with Ror using the MVC structure.
 
 ## Built With
