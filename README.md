@@ -10,6 +10,14 @@
 
 - https://github.com/Janluc/Reformer
 
+## Instructions
+
+- Open your Terminal.
+- Clone the repo
+- Go to the project's root
+- Start server (rails server).
+- Fill the Users form.
+
 ## Authors
 
 👤 **Andres Felipe Castañeda Ramos**
