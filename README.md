@@ -1,24 +1,35 @@
-# README
+# Micro_Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This is a Rails Form made with Ror using the MVC structure.
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Ruby
+- Ror
 
-* System dependencies
+## GitHub Repo
 
-* Configuration
+- https://github.com/Janluc/Reformer
 
-* Database creation
+## Authors
 
-* Database initialization
+👤 **Andres Felipe Castañeda Ramos**
 
-* How to run the test suite
+- Github: [@afcastaneda223](https://github.com/afcastaneda223)
+- Twitter: [@afcastaneda](https://twitter.com/afcastaneda)
+- Linkedin: [Andres Felipe Castañeda](www.linkedin.com/in/andres-castaneda223)
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **Janluc Saneaux**
 
-* Deployment instructions
+- Github: [@Janluc](https://github.com/Janluc)   
+- Twitter: [@Janluc123](https://twitter.com/Janluc123)
+- Linkedin: [linkedin](https://www.linkedin.com/in/janluc-saneaux-91707a1b4/)
 
-* ...
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse
+- Everyone else
